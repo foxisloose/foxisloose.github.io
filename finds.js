@@ -2,6 +2,27 @@
 // Newest first. Keep at most 9 entries. Fields: date, category, title, blurb, url (optional), img (optional).
 window.FOX_FINDS = [
   {
+    date: "Nov 1, 2026",
+    category: "Find of the Day",
+    title: "Apple Watch Series 12: 'the best mainline Apple Watch in years'",
+    blurb: "Fresh from the November gadget roundup — testers gave the new Apple Watch Series 12 perfect marks for its exquisite engineering and vibrant, virtually crease-free screen. The fox wants one for his paw, obviously!",
+    url: "https://www.wilsonsmedia.com/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-november-2026/"
+  },
+  {
+    date: "Nov 1, 2026",
+    category: "Weird & Wonderful",
+    title: "Three inventions that look completely made up (from IFA 2026)",
+    blurb: "A phone with a camera that pops off, a gaming handheld that flips open into a laptop, and a laptop screen that actually grows from 14 to 17 inches. The fox checked twice — they're real, and he wants the growing screen for his den!",
+    url: "https://www.youtube.com/watch?v=lgQJ31-TCtk"
+  },
+  {
+    date: "Nov 1, 2026",
+    category: "Actually Useful",
+    title: "Southern home hacks: bread mops up glass, vinegar unclogs drains",
+    blurb: "A slice of bread picks up glass slivers you can't even see, vinegar plus baking soda unclogs drains without harsh chemicals, and lemon with salt makes a tub sparkle. Simple, cheap, and already in your kitchen — the fox approves!",
+    url: "https://southernhomeexpress.com/life-hacks-and-tips/"
+  },
+  {
     date: "Oct 31, 2026",
     category: "Find of the Day",
     title: "A waterproof drone that takes off from the water",
@@ -42,26 +63,5 @@ window.FOX_FINDS = [
     title: "Revive that old laptop for free with ChromeOS Flex",
     blurb: "Got a dusty old laptop in a drawer? Google's free ChromeOS Flex can make it snappy again for email, docs, and the web — no new computer required. The fox just rescued one from the scrap pile!",
     url: "https://www.ifixit.com/News/119810/international-repair-day-2026"
-  },
-  {
-    date: "Oct 29, 2026",
-    category: "Find of the Day",
-    title: "Amazon's new Alexa+ lineup: an AI photo frame, clock, and camera",
-    blurb: "Fresh off the announcement yesterday — a frame that picks your smiliest photos, a bedside clock that wakes you with a sunrise glow, and a speaker that can read board-game rules off the box. The fox's tail is wagging over that photo frame!",
-    url: "https://dearmyai.com/forum/amazon-new-alexa-plus-devices-oct-2026"
-  },
-  {
-    date: "Oct 29, 2026",
-    category: "Weird & Wonderful",
-    title: "50 facts that sound fake but are 100% real",
-    blurb: "Cotton candy was invented by a dentist. The lighter beat the match by three years. Scotland's national animal is the unicorn. The fox sniffed every one of these twice — they're all true, and his brain is still spinning.",
-    url: "https://www.watchmojo.com/articles/top-50-facts-that-sound-fake-but-are-100-percent-real"
-  },
-  {
-    date: "Oct 29, 2026",
-    category: "Actually Useful",
-    title: "Illinois life hacks: flash-freeze veggies and quiet your buzzing phone",
-    blurb: "Straight from Illinois Country Living — blanch and flash-freeze your garden veggies for ready-made cooking packs, and wrap a rubber band around your phone to hush its nighttime buzzing. Simple tricks, big payoff, zero cost!",
-    url: "https://icl.coop/hacking-life/"
   }
 ];
