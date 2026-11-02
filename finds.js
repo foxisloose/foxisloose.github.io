@@ -2,6 +2,27 @@
 // Newest first. Keep at most 9 entries. Fields: date, category, title, blurb, url (optional), img (optional).
 window.FOX_FINDS = [
   {
+    date: "Nov 2, 2026",
+    category: "Find of the Day",
+    title: "Apple's first touchscreen MacBook has arrived",
+    blurb: "After years of 'never gonna happen,' Apple just introduced its first touchscreen MacBook Pro, with a super-bright PROLED XDR display. The fox is already smudging the screen with his paws!",
+    url: "https://www.gearpatrol.com/audio/best-new-tech-releases-11-01-2026/"
+  },
+  {
+    date: "Nov 2, 2026",
+    category: "Weird & Wonderful",
+    title: "November's birthstone gets its blue from radiation",
+    blurb: "Most brilliant blue topaz doesn't come out of the ground that way — it's zapped with radiation, which traps electrons and turns it blue. Don't worry, the finished stone isn't radioactive — just sneaky!",
+    url: "https://www.acsh.org/news/2026/11/02/novembers-birthstone-topaz-radioactively-blue-50381"
+  },
+  {
+    date: "Nov 2, 2026",
+    category: "Actually Useful",
+    title: "Free Field Trip Fridays at Rend Lake — beavers Nov 13, snakes Nov 20",
+    blurb: "Right here near Benton! Rend Lake's free Friday programs for ages 5 and up run November through February, with beavers up next and snakes after that. The fox is booking his burrow's field trip!",
+    url: "https://www.wdml.com/2026/10/09/rend-lake-offers-new-educational-program-series-field-trip-fridays/"
+  },
+  {
     date: "Nov 1, 2026",
     category: "Find of the Day",
     title: "Apple Watch Series 12: 'the best mainline Apple Watch in years'",
@@ -42,26 +63,5 @@ window.FOX_FINDS = [
     title: "Two genuinely free apps: Snapseed and Joplin",
     blurb: "No subscriptions, no watermarks — Snapseed edits your photos like a pro and Joplin keeps your notes organized, both free on phone and desktop. The fox hoards good freebies like acorns!",
     url: "https://appswithoutsubs.com/blog/2-free-apps-worth-downloading-in-october-2026-snapseed-joplin"
-  },
-  {
-    date: "Oct 30, 2026",
-    category: "Find of the Day",
-    title: "A pocket-sized laptop that weighs just 2 pounds",
-    blurb: "The fox nearly lost this one down a burrow — a mini laptop with a 5.7-inch touchscreen and a real RGB keyboard, all in a 2-pound package. Tiny computer, big grin!",
-    url: "https://www.slashgear.com/2289529/coolest-new-walmart-tech-electronics-october-2026/"
-  },
-  {
-    date: "Oct 30, 2026",
-    category: "Weird & Wonderful",
-    title: "A startup beamed a fake sun over the California desert",
-    blurb: "No, you're not dreaming — Reflect Orbital lit up the desert near Lone Pine with giant lights to preview its plan for 50,000 sunlight-beaming mirror satellites. The fox blinked twice. It was still there.",
-    url: "https://thedingodaily.com/news/article/2026-10-26-startup-fake-sun-california-desert-search-and-rescue"
-  },
-  {
-    date: "Oct 30, 2026",
-    category: "Actually Useful",
-    title: "Revive that old laptop for free with ChromeOS Flex",
-    blurb: "Got a dusty old laptop in a drawer? Google's free ChromeOS Flex can make it snappy again for email, docs, and the web — no new computer required. The fox just rescued one from the scrap pile!",
-    url: "https://www.ifixit.com/News/119810/international-repair-day-2026"
   }
 ];
