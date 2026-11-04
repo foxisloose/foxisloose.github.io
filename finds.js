@@ -2,6 +2,27 @@
 // Newest first. Keep at most 9 entries. Fields: date, category, title, blurb, url (optional), img (optional).
 window.FOX_FINDS = [
   {
+    date: "Nov 3, 2026",
+    category: "Find of the Day",
+    title: "Student-built Braille printer costs about £100 — and just won a world robotics prize",
+    blurb: "Tom and Felix built BrailleGo! for their blind grandfather, and it can print kids books, museum guides and leaflets for a fraction of the usual cost. The fox is cheering — good inventions should be for everyone!",
+    url: "https://www.bristol.ac.uk/news/2026/november/bristol-student-wins-international-robotics-award-for-affordable-braille-printer.html"
+  },
+  {
+    date: "Nov 3, 2026",
+    category: "Weird & Wonderful",
+    title: "That spiky metal thing in a 1907 house? It was just a bottle dryer",
+    blurb: "It looks like a trap, but those sharp hooks were for drying glass bottles upside down before dishwashers existed. The fox would still tiptoe past it, just in case!",
+    url: "https://epicdailys.com/this-strange-metal-object-found-in-a-1907-home-has-a-surprisingly-practical-purpose/"
+  },
+  {
+    date: "Nov 3, 2026",
+    category: "Actually Useful",
+    title: "Free Fort de Chartres Winter Rendezvous this weekend, Nov 7-8",
+    blurb: "Southern Illinois history comes alive with 18th- and early 19th-century camp life, handmade crafts, period music and food — and it is free. The fox is packing his little tricorn hat!",
+    url: "https://www.heartlandweekend.com/2026/10/21/fort-de-chartres-winter-rendezvous-set-nov-7-8/"
+  },
+  {
     date: "Nov 2, 2026",
     category: "Find of the Day",
     title: "Apple's first touchscreen MacBook has arrived",
@@ -42,26 +63,5 @@ window.FOX_FINDS = [
     title: "Southern home hacks: bread mops up glass, vinegar unclogs drains",
     blurb: "A slice of bread picks up glass slivers you can't even see, vinegar plus baking soda unclogs drains without harsh chemicals, and lemon with salt makes a tub sparkle. Simple, cheap, and already in your kitchen — the fox approves!",
     url: "https://southernhomeexpress.com/life-hacks-and-tips/"
-  },
-  {
-    date: "Oct 31, 2026",
-    category: "Find of the Day",
-    title: "A waterproof drone that takes off from the water",
-    blurb: "TIME just named the HoverAir Aqua one of the best inventions of 2026 — a self-flying camera that launches from and lands on water, no controller needed. The fox is already plotting a lake flyover!",
-    url: "https://www.videomaker.com/news/time-names-waterproof-hoverair-aqua-a-best-invention-of-2026/"
-  },
-  {
-    date: "Oct 31, 2026",
-    category: "Weird & Wonderful",
-    title: "A robot hand that crawls around on its own fingers",
-    blurb: "ETH Zurich researchers taught a robotic hand to walk on its fingertips — no arm attached — and yes, they were thinking of Thing from The Addams Family. It even picks itself up when it topples over. Spooky and brilliant!",
-    url: "https://www.machinereport.org/2026/10/22/scientists-build-a-crawling-robot-hand-straight-out-of-the-addams-family/"
-  },
-  {
-    date: "Oct 31, 2026",
-    category: "Actually Useful",
-    title: "Two genuinely free apps: Snapseed and Joplin",
-    blurb: "No subscriptions, no watermarks — Snapseed edits your photos like a pro and Joplin keeps your notes organized, both free on phone and desktop. The fox hoards good freebies like acorns!",
-    url: "https://appswithoutsubs.com/blog/2-free-apps-worth-downloading-in-october-2026-snapseed-joplin"
   }
 ];
